@@ -85,6 +85,7 @@ input[type=range] {
   -webkit-transition: 0.2s;
   transition: opacity 0.2s;
   /* transform: translate(0,-50%); */
+  
 }
 input[type=range]:hover {
   opacity: 1; /* Fully shown on mouse-over */
